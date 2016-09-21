@@ -1,0 +1,5 @@
+<script src="//content.jwplatform.com/libraries/V6NfEzT7.js"></script>
+<div id="myPlayer">&nbsp;</div>
+<script>
+jwplayer('myPlayer').setup({image:"{{page.thumb}}",file:"http://drainmainvein.com/media/videos/mp4/{{include.key}}.mp4",aspectratio:"16:9",width:"100%"});
+</script>
