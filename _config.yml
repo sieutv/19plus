@@ -5,3 +5,9 @@ asseturl: "/assets"
 permalink: /:categories/:title/
 paginate: 30
 paginate_path: "/page:num"
+
+title: 19plus
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
